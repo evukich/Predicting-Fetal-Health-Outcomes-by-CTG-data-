@@ -4,7 +4,9 @@ Python Notebooks demonstrate my data cleansing process, strategy and intent to b
 
 Models were hypertuned to provide highly accurate results. The highest performing model achieved 95% accuracy in predicting the fetal health outcome as 'Normal', 'Suspect', or 'Pathological'. XG Boost shows a 95% accuracy and would be an ideal model to deploy in an automated model in the healthcare setting. 
 
-Please see comparison of models and accuracy scores below: 
+Please see final presentation for non-technical audiences for a comprehensive summary of this project. 
+
+Comparison of models and accuracy scores below: 
 
 Dummy
 0.6370510396975425
